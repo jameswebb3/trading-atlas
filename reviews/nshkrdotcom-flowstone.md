@@ -32,7 +32,7 @@ Crash or disable each persistence backend and verify that an accepted experiment
 
 ## Why this score
 
-2/5 adjacent: the concrete silent-success and volatile-checkpoint paths inform tests of our own orchestration, but adopting the Elixir framework is outside the stack.
+2/5 adjacent: the concrete silent-success and volatile-checkpoint paths provide useful failure cases for reproducibility tests; the Elixir framework itself is not trading-specific.
 
 ## Source trail
 

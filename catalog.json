@@ -16861,7 +16861,7 @@
       "short_verdict": "Models data assets and lineage, but its lineage recorder returns success when neither database nor in-memory server is available, while approval checkpoints live in memory. Useful as a persistence-gap test case.",
       "key_check": "Make absent lineage storage and lost approval state visible failures in any reproducibility-critical path.",
       "trading_fit": "adjacent",
-      "rating_reason": "2/5 adjacent: the concrete silent-success and volatile-checkpoint paths inform tests of our own orchestration, but adopting the Elixir framework is outside the stack."
+      "rating_reason": "2/5 adjacent: the concrete silent-success and volatile-checkpoint paths provide useful failure cases for reproducibility tests; the Elixir framework itself is not trading-specific."
     },
     {
       "repo": "tosh2230/stairlight",
