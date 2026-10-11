@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 580" width="1200" height="580" role="img" aria-label="Completed reviews per area, split by review rating" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Completed reviews per area, split by review rating</title>
+<rect width="1200" height="580" rx="16" fill="#f6f8fa"/>
+<text x="40" y="44" font-size="20" font-weight="600" fill="#1f2328">Review rating</text>
+<rect x="196" y="30" width="18" height="18" rx="4" fill="#86b6ef"/>
+<text x="222" y="45" font-size="20" fill="#59636e">1/5</text>
+<rect x="288" y="30" width="18" height="18" rx="4" fill="#5598e7"/>
+<text x="314" y="45" font-size="20" fill="#59636e">2/5</text>
+<rect x="380" y="30" width="18" height="18" rx="4" fill="#2a78d6"/>
+<text x="406" y="45" font-size="20" fill="#59636e">3/5</text>
+<rect x="472" y="30" width="18" height="18" rx="4" fill="#1c5cab"/>
+<text x="498" y="45" font-size="20" fill="#59636e">4/5</text>
+<rect x="564" y="30" width="18" height="18" rx="4" fill="#0d366b"/>
+<text x="590" y="45" font-size="20" fill="#59636e">5/5</text>
+<text x="1140" y="45" font-size="20" text-anchor="end" fill="#59636e">Number of reviews per area</text>
+<text x="344" y="115" font-size="20" text-anchor="end" fill="#1f2328">Market Data &amp; Ingestion</text>
+<rect x="360.0" y="98.0" width="40.8" height="20" fill="#86b6ef"><title>Market Data &amp; Ingestion: 11 rated 1/5</title></rect>
+<rect x="402.8" y="98.0" width="122.5" height="20" fill="#5598e7"><title>Market Data &amp; Ingestion: 32 rated 2/5</title></rect>
+<rect x="527.4" y="98.0" width="231.5" height="20" fill="#2a78d6"><title>Market Data &amp; Ingestion: 60 rated 3/5</title></rect>
+<path d="M760.9,98.0 h75.7 a4,4 0 0 1 4,4 v12.0 a4,4 0 0 1 -4,4 h-75.7 z" fill="#1c5cab"><title>Market Data &amp; Ingestion: 21 rated 4/5</title></path>
+<text x="852.6" y="115" font-size="20" font-weight="600" fill="#1f2328">124</text>
+<text x="344" y="163" font-size="20" text-anchor="end" fill="#1f2328">Data Quality &amp; Lineage</text>
+<rect x="360.0" y="146.0" width="33.0" height="20" fill="#86b6ef"><title>Data Quality &amp; Lineage: 9 rated 1/5</title></rect>
+<rect x="395.0" y="146.0" width="278.2" height="20" fill="#5598e7"><title>Data Quality &amp; Lineage: 72 rated 2/5</title></rect>
+<rect x="675.2" y="146.0" width="387.2" height="20" fill="#2a78d6"><title>Data Quality &amp; Lineage: 100 rated 3/5</title></rect>
+<path d="M1064.4,146.0 h9.6 a4,4 0 0 1 4,4 v12.0 a4,4 0 0 1 -4,4 h-9.6 z" fill="#1c5cab"><title>Data Quality &amp; Lineage: 4 rated 4/5</title></path>
+<text x="1090.0" y="163" font-size="20" font-weight="600" fill="#1f2328">185</text>
+<text x="344" y="211" font-size="20" text-anchor="end" fill="#1f2328">Research &amp; Reproducibility</text>
+<rect x="360.0" y="194.0" width="40.8" height="20" fill="#86b6ef"><title>Research &amp; Reproducibility: 11 rated 1/5</title></rect>
+<rect x="402.8" y="194.0" width="192.6" height="20" fill="#5598e7"><title>Research &amp; Reproducibility: 50 rated 2/5</title></rect>
+<rect x="597.4" y="194.0" width="278.2" height="20" fill="#2a78d6"><title>Research &amp; Reproducibility: 72 rated 3/5</title></rect>
+<path d="M877.6,194.0 h9.6 a4,4 0 0 1 4,4 v12.0 a4,4 0 0 1 -4,4 h-9.6 z" fill="#1c5cab"><title>Research &amp; Reproducibility: 4 rated 4/5</title></path>
+<text x="903.2" y="211" font-size="20" font-weight="600" fill="#1f2328">137</text>
+<text x="344" y="259" font-size="20" text-anchor="end" fill="#1f2328">Signals &amp; Models</text>
+<rect x="360.0" y="242.0" width="36.9" height="20" fill="#86b6ef"><title>Signals &amp; Models: 10 rated 1/5</title></rect>
+<rect x="398.9" y="242.0" width="126.4" height="20" fill="#5598e7"><title>Signals &amp; Models: 33 rated 2/5</title></rect>
+<rect x="527.4" y="242.0" width="75.8" height="20" fill="#2a78d6"><title>Signals &amp; Models: 20 rated 3/5</title></rect>
+<path d="M605.2,242.0 h17.4 a4,4 0 0 1 4,4 v12.0 a4,4 0 0 1 -4,4 h-17.4 z" fill="#1c5cab"><title>Signals &amp; Models: 6 rated 4/5</title></path>
+<text x="638.5" y="259" font-size="20" font-weight="600" fill="#1f2328">69</text>
+<text x="344" y="307" font-size="20" text-anchor="end" fill="#1f2328">Backtesting &amp; Simulation</text>
+<rect x="360.0" y="290.0" width="44.7" height="20" fill="#86b6ef"><title>Backtesting &amp; Simulation: 12 rated 1/5</title></rect>
+<rect x="406.7" y="290.0" width="122.5" height="20" fill="#5598e7"><title>Backtesting &amp; Simulation: 32 rated 2/5</title></rect>
+<rect x="531.2" y="290.0" width="169.2" height="20" fill="#2a78d6"><title>Backtesting &amp; Simulation: 44 rated 3/5</title></rect>
+<path d="M702.5,290.0 h95.2 a4,4 0 0 1 4,4 v12.0 a4,4 0 0 1 -4,4 h-95.2 z" fill="#1c5cab"><title>Backtesting &amp; Simulation: 26 rated 4/5</title></path>
+<text x="813.7" y="307" font-size="20" font-weight="600" fill="#1f2328">114</text>
+<text x="344" y="355" font-size="20" text-anchor="end" fill="#1f2328">Execution &amp; Exchange Integration</text>
+<rect x="360.0" y="338.0" width="60.3" height="20" fill="#86b6ef"><title>Execution &amp; Exchange Integration: 16 rated 1/5</title></rect>
+<rect x="422.3" y="338.0" width="177.0" height="20" fill="#5598e7"><title>Execution &amp; Exchange Integration: 46 rated 2/5</title></rect>
+<rect x="601.3" y="338.0" width="200.4" height="20" fill="#2a78d6"><title>Execution &amp; Exchange Integration: 52 rated 3/5</title></rect>
+<rect x="803.7" y="338.0" width="79.7" height="20" fill="#1c5cab"><title>Execution &amp; Exchange Integration: 21 rated 4/5</title></rect>
+<path d="M885.4,338.0 h0.9 a0.945945945945946,0.945945945945946 0 0 1 0.945945945945946,0.945945945945946 v18.1 a0.945945945945946,0.945945945945946 0 0 1 -0.945945945945946,0.945945945945946 h-0.9 z" fill="#0d366b"><title>Execution &amp; Exchange Integration: 1 rated 5/5</title></path>
+<text x="899.3" y="355" font-size="20" font-weight="600" fill="#1f2328">136</text>
+<text x="344" y="403" font-size="20" text-anchor="end" fill="#1f2328">Portfolio &amp; Risk</text>
+<rect x="360.0" y="386.0" width="9.7" height="20" fill="#86b6ef"><title>Portfolio &amp; Risk: 3 rated 1/5</title></rect>
+<rect x="371.7" y="386.0" width="56.4" height="20" fill="#5598e7"><title>Portfolio &amp; Risk: 15 rated 2/5</title></rect>
+<rect x="430.1" y="386.0" width="95.3" height="20" fill="#2a78d6"><title>Portfolio &amp; Risk: 25 rated 3/5</title></rect>
+<path d="M527.4,386.0 h2.9 a2.891891891891892,2.891891891891892 0 0 1 2.891891891891892,2.891891891891892 v14.2 a2.891891891891892,2.891891891891892 0 0 1 -2.891891891891892,2.891891891891892 h-2.9 z" fill="#1c5cab"><title>Portfolio &amp; Risk: 2 rated 4/5</title></path>
+<text x="545.1" y="403" font-size="20" font-weight="600" fill="#1f2328">45</text>
+<text x="344" y="451" font-size="20" text-anchor="end" fill="#1f2328">Testing &amp; Verification</text>
+<rect x="360.0" y="434.0" width="13.6" height="20" fill="#86b6ef"><title>Testing &amp; Verification: 4 rated 1/5</title></rect>
+<rect x="375.6" y="434.0" width="145.9" height="20" fill="#5598e7"><title>Testing &amp; Verification: 38 rated 2/5</title></rect>
+<rect x="523.5" y="434.0" width="188.7" height="20" fill="#2a78d6"><title>Testing &amp; Verification: 49 rated 3/5</title></rect>
+<path d="M714.2,434.0 h9.6 a4,4 0 0 1 4,4 v12.0 a4,4 0 0 1 -4,4 h-9.6 z" fill="#1c5cab"><title>Testing &amp; Verification: 4 rated 4/5</title></path>
+<text x="739.7" y="451" font-size="20" font-weight="600" fill="#1f2328">95</text>
+<text x="344" y="499" font-size="20" text-anchor="end" fill="#1f2328">Operations &amp; Observability</text>
+<rect x="360.0" y="482.0" width="1.9" height="20" fill="#86b6ef"><title>Operations &amp; Observability: 1 rated 1/5</title></rect>
+<rect x="363.9" y="482.0" width="161.5" height="20" fill="#5598e7"><title>Operations &amp; Observability: 42 rated 2/5</title></rect>
+<path d="M527.4,482.0 h95.2 a4,4 0 0 1 4,4 v12.0 a4,4 0 0 1 -4,4 h-95.2 z" fill="#2a78d6"><title>Operations &amp; Observability: 26 rated 3/5</title></path>
+<text x="638.5" y="499" font-size="20" font-weight="600" fill="#1f2328">69</text>
+<text x="344" y="547" font-size="20" text-anchor="end" fill="#1f2328">Agents &amp; Decision Systems</text>
+<rect x="360.0" y="530.0" width="21.4" height="20" fill="#86b6ef"><title>Agents &amp; Decision Systems: 6 rated 1/5</title></rect>
+<rect x="383.4" y="530.0" width="161.5" height="20" fill="#5598e7"><title>Agents &amp; Decision Systems: 42 rated 2/5</title></rect>
+<rect x="546.8" y="530.0" width="165.4" height="20" fill="#2a78d6"><title>Agents &amp; Decision Systems: 43 rated 3/5</title></rect>
+<path d="M714.2,530.0 h0.9 a0.945945945945946,0.945945945945946 0 0 1 0.945945945945946,0.945945945945946 v18.1 a0.945945945945946,0.945945945945946 0 0 1 -0.945945945945946,0.945945945945946 h-0.9 z" fill="#1c5cab"><title>Agents &amp; Decision Systems: 1 rated 4/5</title></path>
+<text x="728.1" y="547" font-size="20" font-weight="600" fill="#1f2328">92</text>
+</svg>

@@ -1,0 +1,30 @@
+{
+  "updated_at": "2026-10-11",
+  "items": [
+    {
+      "repo": "Coinversaa/mcp-server",
+      "kind": "finding",
+      "summary": "Agent results declare totalCount and truncated; dataset coverage keeps unknown window starts null instead of inventing dates."
+    },
+    {
+      "repo": "MaxIsOntoSomething/Hyperliquid_Copy_Trader",
+      "kind": "finding",
+      "summary": "A position-update handler calls .get on the positions list, so the exception path can log a failed event while the WebSocket stays connected."
+    },
+    {
+      "repo": "aopunya4332/hyperliquid-stat-arb-bot",
+      "kind": "finding",
+      "summary": "The claimed pairs strategy computes its second price from the first by default and orders only one leg."
+    },
+    {
+      "repo": "sixteen-dev/obai",
+      "kind": "correction",
+      "summary": "Backtest jobs have terminal result files, but a crash before completion leaves no persisted record of the accepted in-flight job."
+    },
+    {
+      "repo": "marketcalls/vectorbt-backtesting-skills",
+      "kind": "finding",
+      "summary": "The quarterly winner is shifted, yet missing open prices can be backward-filled from later dates before the execution replay."
+    }
+  ]
+}

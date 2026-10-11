@@ -1,0 +1,92 @@
+{
+  "example": "nilesjarvis/kerosene",
+  "items": [
+    {
+      "question": "My backtest looks great. Is it using information it could not have had?",
+      "repos": [
+        "freqtrade/freqtrade",
+        "Heerozh/spectre",
+        "stefan-jansen/machine-learning-for-trading",
+        "LuxAlgo/PineTS"
+      ],
+      "guide": null
+    },
+    {
+      "question": "Will my simulated fills hold up against a real order book?",
+      "repos": [
+        "nautechsystems/nautilus_trader",
+        "nkaz001/hftbacktest",
+        "FLOX-Foundation/flox",
+        "QuantConnect/Lean"
+      ],
+      "guide": null
+    },
+    {
+      "question": "Is my order really filled, and at what price?",
+      "repos": [
+        "nilesjarvis/kerosene",
+        "hummingbot/hummingbot",
+        "Quantweb3-com/NexusTrader",
+        "AsyncAlgoTrading/aat"
+      ],
+      "guide": "guides/order-completion.md"
+    },
+    {
+      "question": "Which exchange client can I trust with a live account?",
+      "repos": [
+        "ccxt/ccxt",
+        "nktkas/hyperliquid",
+        "barter-rs/barter-rs"
+      ],
+      "guide": null
+    },
+    {
+      "question": "Am I validating a strategy without fooling myself?",
+      "repos": [
+        "stefan-jansen/alphalens-reloaded",
+        "WenjieZ/TSCV",
+        "skfolio/skfolio",
+        "statsmodels/statsmodels"
+      ],
+      "guide": null
+    },
+    {
+      "question": "Do my P&L and drawdown match what actually happened?",
+      "repos": [
+        "ArturSepp/QuantInvestStrats",
+        "enarjord/passivbot",
+        "ranaroussi/quantstats"
+      ],
+      "guide": null
+    },
+    {
+      "question": "How do I keep on-chain data correct through chain reorganizations?",
+      "repos": [
+        "ponder-sh/ponder",
+        "subsquid/squid-sdk",
+        "alloy-rs/alloy",
+        "graphprotocol/graph-node"
+      ],
+      "guide": "guides/on-chain-data.md"
+    },
+    {
+      "question": "How do I notice when a feed or a job silently stops?",
+      "repos": [
+        "healthchecks/healthchecks",
+        "datacontract/datacontract-cli",
+        "dagster-io/dagster",
+        "prometheus/alertmanager"
+      ],
+      "guide": null
+    },
+    {
+      "question": "Can an AI agent research or trade without going off the rails?",
+      "repos": [
+        "monarchjuno/tradingcodex",
+        "TraderAlice/OpenAlice",
+        "wanshuiyin/Anti-Autoresearch"
+      ],
+      "guide": null
+    }
+  ]
+}
