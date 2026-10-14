@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "snapshot_date": "2026-10-11",
+  "snapshot_date": "2026-10-14",
   "projects": [
     {
       "repo": "02TJS/ProgressTarget",
@@ -11333,10 +11333,10 @@
     {
       "repo": "Synpath-ai/synpath",
       "primary_area": "execution-exchange-integration",
-      "focus": "Trading-system mechanism",
+      "focus": "Historical books and reconciliation",
       "status": "reviewed",
-      "stars_recorded": 127,
-      "record_date": "2026-10-11",
+      "stars_recorded": 156,
+      "record_date": "2026-10-14",
       "public_source": null
     },
     {

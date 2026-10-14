@@ -1,3 +1,9 @@
+## 2026-10-14 — Synpath historical-data review update
+
+- Expanded the existing Synpath review with gap-preserving historical-book replay, oversized-range handling and dataset-version checks at a new source commit. Rechecked and retained the terminal-order cancellation caveat.
+- Relevant history tests were read, not run. Evidence depth rises from 2/3 to 3/3; the trading-system rating remains 3/5. Hosted archive coverage is unverified.
+- No duplicate entry: the catalog remains at 1,066 completed source reviews and 1,544 projects considered.
+
 ## 2026-10-11 — Fixed queue closed and publication wording audited
 
 - Completed the frozen candidate queue after the first source-audit batch: 34 further full reviews and 411 documented exclusions. The current ledger has 1,066 completed reviews, 478 unrated records and no pending fixed-queue candidates among 1,544 projects considered.
